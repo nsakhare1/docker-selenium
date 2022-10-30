@@ -42,3 +42,4 @@ USER 1200
 # Dumping Browser name and version for config
 #============================================
 RUN echo "firefox" > /opt/selenium/browser_name
+asjak
